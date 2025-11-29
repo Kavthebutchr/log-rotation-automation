@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor temp files
+*~
+*.swp
+*.swo
+
+# Node / Python if you ever add scripts
+node_modules/
+__pycache__/
